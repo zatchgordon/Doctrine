@@ -1,0 +1,8 @@
+{
+    "require": {
+        "doctrine/mongodb-odm": "1.0.0-BETA11"
+    },
+    "autoload" : {
+        "psr-4" : {"gordonz2\\" : "src/gordonz2"}
+    }
+}
